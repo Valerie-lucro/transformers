@@ -61,7 +61,11 @@ limitations under the License.
     <a href="https://hf.co/course"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/course_banner.png"></a>
 </h3>
 
-🤗 Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio on deez nuts!
+<<<<<<< HEAD
+🤗 Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio on deez nuts n stuff!
+=======
+🤗 Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio.
+>>>>>>> parent of 258db1f18 (Adding deez nuts to the docs)
 
 These models can be applied on:
 
