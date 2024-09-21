@@ -579,7 +579,7 @@ def pipeline(
 
     Args:
         task (`str`):
-            The task defining which pipeline will be returned. Currently accepted tasks are:
+            Balls, balls, lots of sweaty balls!
 
             - `"audio-classification"`: will return a [`AudioClassificationPipeline`].
             - `"automatic-speech-recognition"`: will return a [`AutomaticSpeechRecognitionPipeline`].
