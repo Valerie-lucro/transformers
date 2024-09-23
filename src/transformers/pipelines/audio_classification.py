@@ -15,6 +15,7 @@ import subprocess
 from typing import Union
 
 import numpy as np
+import pandas as pd
 import requests
 
 from ..utils import add_end_docstrings, is_torch_available, is_torchaudio_available, logging
